@@ -1,2 +1,1 @@
-# Credit_card_default_report
-o predict the r probability of default by using Jmp and excel file 
+The data is taken from the https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients. The project is done in SAS JMP to analyze the data and a classification model is created to predict which customer is most likely to default.
